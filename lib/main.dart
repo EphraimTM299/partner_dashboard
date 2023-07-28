@@ -1,8 +1,24 @@
-import 'package:flutter/material.dart';
-import 'package:store_responsive_dashboard/pages/dashboard.dart';
-import 'package:store_responsive_dashboard/constaints.dart';
+// ignore_for_file: unused_local_variable
 
-void main() {
+import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+import 'package:get/get.dart';
+import 'package:store_responsive_dashboard/constants/theme.dart';
+
+import 'package:store_responsive_dashboard/providers/currentUser.dart';
+import 'package:store_responsive_dashboard/root.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+import 'firebase_options.dart';
+
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  SharedPreferences prefs = await SharedPreferences.getInstance();
+  var email = prefs.getString("email");
+
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   runApp(MyApp());
 }
 
@@ -10,15 +26,16 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Store Dashboard',
-      theme: ThemeData(
-          fontFamily: 'Nunito',
-          primaryColor: primary,
-          textTheme: TextTheme().apply(bodyColor: textColor),
-          backgroundColor: Colors.yellow),
-      home: Dashboard(),
-      debugShowCheckedModeBanner: false,
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (context) => CurrentUser()),
+      ],
+      child: GetMaterialApp(
+        title: 'Store Dashboard',
+        theme: theme(),
+        home: Root(),
+        debugShowCheckedModeBanner: false,
+      ),
     );
   }
 }

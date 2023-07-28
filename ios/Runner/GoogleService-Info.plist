@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>795844478666-oa42v2uqje3pu4q8aeto18lj5qpsl0p1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.795844478666-oa42v2uqje3pu4q8aeto18lj5qpsl0p1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCi64todUq9EMIJWsCk-47Dkro1DpaBomU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>795844478666</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testWeb</string>
+	<key>PROJECT_ID</key>
+	<string>testproject-8941c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testproject-8941c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:795844478666:ios:15576bef3da6dc7766d633</string>
+	<key>DATABASE_URL</key>
+	<string>https://testproject-8941c-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

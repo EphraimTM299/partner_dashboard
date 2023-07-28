@@ -1,0 +1,263 @@
+{
+  "project_info": {
+    "project_number": "795844478666",
+    "firebase_url": "https://testproject-8941c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testproject-8941c",
+    "storage_bucket": "testproject-8941c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844478666:android:070c6b4b2d3f13bb66d633",
+        "android_client_info": {
+          "package_name": "com.appzler.deliverzler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844478666-k1882jee57vbse0rrjnl34108goulnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08BvTBbX20GZyKX4LNuddVZ7XduppKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844478666-fbotkjltcuus0gk009t95oc6u5sf9n80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844478666-0a5rs9c6kp8fjvseom6oerpandoqg3a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.lynen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844478666:android:1969b9d251c66dff66d633",
+        "android_client_info": {
+          "package_name": "com.example.admin_mi_laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844478666-k1882jee57vbse0rrjnl34108goulnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08BvTBbX20GZyKX4LNuddVZ7XduppKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844478666-fbotkjltcuus0gk009t95oc6u5sf9n80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844478666-0a5rs9c6kp8fjvseom6oerpandoqg3a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.lynen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844478666:android:bac5ec8fb91c880366d633",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844478666-k1882jee57vbse0rrjnl34108goulnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08BvTBbX20GZyKX4LNuddVZ7XduppKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844478666-fbotkjltcuus0gk009t95oc6u5sf9n80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844478666-0a5rs9c6kp8fjvseom6oerpandoqg3a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.lynen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844478666:android:3c9b0f3de0b9d92e66d633",
+        "android_client_info": {
+          "package_name": "com.example.laundry_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844478666-k1882jee57vbse0rrjnl34108goulnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08BvTBbX20GZyKX4LNuddVZ7XduppKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844478666-fbotkjltcuus0gk009t95oc6u5sf9n80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844478666-0a5rs9c6kp8fjvseom6oerpandoqg3a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.lynen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844478666:android:3d69983dcefb44ea66d633",
+        "android_client_info": {
+          "package_name": "com.example.lynen_laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844478666-k1882jee57vbse0rrjnl34108goulnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08BvTBbX20GZyKX4LNuddVZ7XduppKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844478666-fbotkjltcuus0gk009t95oc6u5sf9n80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844478666-0a5rs9c6kp8fjvseom6oerpandoqg3a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.lynen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844478666:android:528b001c1de21baf66d633",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844478666-k1882jee57vbse0rrjnl34108goulnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08BvTBbX20GZyKX4LNuddVZ7XduppKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844478666-fbotkjltcuus0gk009t95oc6u5sf9n80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844478666-0a5rs9c6kp8fjvseom6oerpandoqg3a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.lynen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844478666:android:502a79ce4b2f66dc66d633",
+        "android_client_info": {
+          "package_name": "com.example.store_responsive_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844478666-k1882jee57vbse0rrjnl34108goulnhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08BvTBbX20GZyKX4LNuddVZ7XduppKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844478666-fbotkjltcuus0gk009t95oc6u5sf9n80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844478666-0a5rs9c6kp8fjvseom6oerpandoqg3a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.lynen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
